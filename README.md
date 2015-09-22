@@ -6,7 +6,7 @@ lineal sensor are pH probes, ORP probes.
 Including two point calibration procedure.
   
 
- * version 0.1 ALPHA 22/09/2015
+ * Creation date: 22/09/2015
  * Author: Jaime García  @peninquen
  * License:  Apache License Version 2.0.
 
